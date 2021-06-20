@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ulfatashraf001
-- 👀 I’m interested in cloud computing, AWS, AZURE, PAAS, SAAS and Infrastructure as Code
+- 👀 I’m interested in cloud computing, AWS, AZURE, GCP, PAAS, SAAS and Infrastructure as Code
 - 🌱 I’m currently learning terraform.
 - 💞️ I’m looking to collaborate on in any of above 
 - 📫 I may be reached at via my email as follows: ashraf.ulfat9@gmail.com.
